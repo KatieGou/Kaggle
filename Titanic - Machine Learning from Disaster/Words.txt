@@ -1,0 +1,5 @@
+Tried three different classification methods: XGBoosting, GradientBoosting and Randomforest. Achieved best accuracy 0.78229 on test data. 
+
+Some gain: 
+Some features are irrelevant and should be discarded. Plotting can show the relations well. 
+df.isnull().sum() can show the NAN values in a dataframe. 
